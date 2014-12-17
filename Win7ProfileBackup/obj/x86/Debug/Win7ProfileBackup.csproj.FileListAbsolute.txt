@@ -1,0 +1,18 @@
+\\dcbasement1\network_mydocs$\realityshifter\my documents\visual studio 2010\Projects\Win7ProfileBackup\Win7ProfileBackup\obj\x86\Debug\ResolveAssemblyReference.cache
+\\dcbasement1\network_mydocs$\realityshifter\my documents\visual studio 2010\Projects\Win7ProfileBackup\Win7ProfileBackup\obj\x86\Debug\Win7ProfileBackup.Form1.resources
+\\dcbasement1\network_mydocs$\realityshifter\my documents\visual studio 2010\Projects\Win7ProfileBackup\Win7ProfileBackup\obj\x86\Debug\Win7ProfileBackup.Properties.Resources.resources
+\\dcbasement1\network_mydocs$\realityshifter\my documents\visual studio 2010\Projects\Win7ProfileBackup\Win7ProfileBackup\obj\x86\Debug\GenerateResource.read.1.tlog
+\\dcbasement1\network_mydocs$\realityshifter\my documents\visual studio 2010\Projects\Win7ProfileBackup\Win7ProfileBackup\obj\x86\Debug\GenerateResource.write.1.tlog
+\\dcbasement1\network_mydocs$\realityshifter\my documents\visual studio 2010\Projects\Win7ProfileBackup\Win7ProfileBackup\bin\Debug\Win7ProfileBackup.exe
+\\dcbasement1\network_mydocs$\realityshifter\my documents\visual studio 2010\Projects\Win7ProfileBackup\Win7ProfileBackup\bin\Debug\Win7ProfileBackup.pdb
+\\dcbasement1\network_mydocs$\realityshifter\my documents\visual studio 2010\Projects\Win7ProfileBackup\Win7ProfileBackup\obj\x86\Debug\Win7ProfileBackup.exe
+\\dcbasement1\network_mydocs$\realityshifter\my documents\visual studio 2010\Projects\Win7ProfileBackup\Win7ProfileBackup\obj\x86\Debug\Win7ProfileBackup.pdb
+\\DCBasement1\Network_MyDocs$\Allor\My Documents\Programs - C Sharp\Sandbox\Win7ProfileBackup\Win7ProfileBackup\obj\x86\Debug\Win7ProfileBackup.exe
+\\DCBasement1\Network_MyDocs$\Allor\My Documents\Programs - C Sharp\Sandbox\Win7ProfileBackup\Win7ProfileBackup\obj\x86\Debug\Win7ProfileBackup.pdb
+\\DCBasement1\Network_MyDocs$\Allor\My Documents\Programs - C Sharp\Sandbox\Win7ProfileBackup\Win7ProfileBackup\bin\Debug\Win7ProfileBackup.exe
+\\DCBasement1\Network_MyDocs$\Allor\My Documents\Programs - C Sharp\Sandbox\Win7ProfileBackup\Win7ProfileBackup\bin\Debug\Win7ProfileBackup.pdb
+\\DCBasement1\Network_MyDocs$\Allor\My Documents\Programs - C Sharp\Sandbox\Win7ProfileBackup\Win7ProfileBackup\obj\x86\Debug\ResolveAssemblyReference.cache
+\\DCBasement1\Network_MyDocs$\Allor\My Documents\Programs - C Sharp\Sandbox\Win7ProfileBackup\Win7ProfileBackup\obj\x86\Debug\Win7ProfileBackup.Form1.resources
+\\DCBasement1\Network_MyDocs$\Allor\My Documents\Programs - C Sharp\Sandbox\Win7ProfileBackup\Win7ProfileBackup\obj\x86\Debug\Win7ProfileBackup.Properties.Resources.resources
+\\DCBasement1\Network_MyDocs$\Allor\My Documents\Programs - C Sharp\Sandbox\Win7ProfileBackup\Win7ProfileBackup\obj\x86\Debug\GenerateResource.read.1.tlog
+\\DCBasement1\Network_MyDocs$\Allor\My Documents\Programs - C Sharp\Sandbox\Win7ProfileBackup\Win7ProfileBackup\obj\x86\Debug\GenerateResource.write.1.tlog
